@@ -10,7 +10,7 @@ The bot maintains user state to track the user's answers.
 ```bash
 git clone https://github.com/arpan65/MS-Insurance-ChatBot.git
 ```
-- In a terminal, navigate to `botbuilder-samples\samples\python\44.prompt-for-user-input` folder
+- In a terminal, navigate to `MS-Insurance-ChatBot` folder
 - Activate your desired virtual environment
 - In the terminal, type `pip install -r requirements.txt`
 - Run your bot with `python app.py`
