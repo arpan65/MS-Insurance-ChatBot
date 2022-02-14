@@ -1,6 +1,6 @@
-﻿# Prompt users for input
+﻿# Custom Prompt Insurance Chatbot based on Microsoft Boat Framework
 
-This sample demonstrates how to create your own prompts with an ASP.Net Core 2 bot.
+This sample demonstrates how to create your own prompts with an Microsoft bot.
 The bot maintains conversation state to track and direct the conversation and ask the user questions.
 The bot maintains user state to track the user's answers.
 
@@ -8,7 +8,7 @@ The bot maintains user state to track the user's answers.
 
 - Clone the repository
 ```bash
-git clone https://github.com/Microsoft/botbuilder-samples.git
+git clone https://github.com/arpan65/MS-Insurance-ChatBot.git
 ```
 - In a terminal, navigate to `botbuilder-samples\samples\python\44.prompt-for-user-input` folder
 - Activate your desired virtual environment
@@ -30,6 +30,9 @@ git clone https://github.com/Microsoft/botbuilder-samples.git
 ## Deploy the bot to Azure
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
+
+## Demo
+https://vimeo.com/manage/videos/677054610
 
 ## Further reading
 
