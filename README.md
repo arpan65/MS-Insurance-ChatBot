@@ -1,6 +1,6 @@
-﻿# Custom Prompt Insurance Chatbot based on Microsoft Boat Framework
+﻿# Custom Prompt Insurance Chatbot based on Microsoft Bot Framework
 
-This sample demonstrates how to create your own prompts with an Microsoft bot.
+This sample demonstrates how to create your own prompt based Insurance chatbot
 The bot maintains conversation state to track and direct the conversation and ask the user questions.
 The bot maintains user state to track the user's answers.
 
